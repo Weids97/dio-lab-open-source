@@ -1,7 +1,5 @@
--  M-; Desenvolvedor em forma  o
--  ~@ Apaixonado por tecnologia e aprendizado contín
--  M-+ Contato: weidson.felipealves97@outlook.com-  M-; Desenvolvedor em forma  o
--  ~@ Apaixonado por tecnologia e aprendizado contín
--  M-+ Contato: weidson.felipealves97@outlook.com# Olá, eu sou o Weidson  ~K
+# Olá, eu sou o Weidson 👋
 
-# Olá, eu sou o Weidson  ~K
+- Desenvolvedor em formação
+- Apaixonado por tecnologia e aprendizado contínuo
+- Contato: [weidson.felipealves97@outlook.com]
