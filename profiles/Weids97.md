@@ -1,5 +1,5 @@
 # Olá, eu sou o Weidson 👋
 
-- Desenvolvedor em formação
-- Apaixonado por tecnologia e aprendizado contínuo
-- Contato: [weidson.felipealves97@outlook.com]
+- **Desenvolvedor em formação**
+- **Apaixonado por tecnologia e aprendizado contínuo**
+- **Contato:** [weidson.felipealves97@outlook.com](mailto:weidson.felipealves97@outlook.com)
